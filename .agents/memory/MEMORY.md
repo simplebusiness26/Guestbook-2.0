@@ -1,0 +1,2 @@
+- [Agent foundation](foundation.md) — 5 permanent docs guide all future agents; read AGENTS.md first on every session
+- [Replit proxy fix](replit-proxy.md) — static export + serve is required; Metro dev server blocked by Replit proxy due to host checking
